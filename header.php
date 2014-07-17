@@ -81,8 +81,17 @@
 				      <?php }?>
 
                     	</a>
+
+                        <?php
+                          $leads = Array(  "Yeah baby, yeah.",
+                                                    "Oh si.", 
+                                                    "Denise Rosenthal style.",
+                                                    "Haciendo el amor y la guerra.",
+                                                    "Juan Lui es mi pastor."
+                                                  )
+                        ?>
 					</h1>
-					<h2 class="description"><?php  echo get_bloginfo('description');?></h2>
+					<h2 class="description"><?php echo($leads[array_rand($leads)])?> </h2>
 					<!-- end logo -->
 
                		<div class="mini_divider"></div>
