@@ -36,7 +36,7 @@
 											    $format = 'standard';
 										?>
 
-										<div class="icon">
+										<!-- <div class="icon">
 
 											<?php
 												if(has_post_format('gallery')){
@@ -72,7 +72,7 @@
 
 
 
-										</div>
+										</div> -->
 
 											<?php
 											if ( has_post_thumbnail() ) {
