@@ -87,7 +87,10 @@
                                                     "Oh si.", 
                                                     "Denise Rosenthal style.",
                                                     "Haciendo el amor y la guerra.",
-                                                    "Juan Lui es mi pastor."
+                                                    "Juan Lui es mi pastor.",
+                                                    "Chapalapachala.",
+                                                    "Me voy porque es rico irse.",
+                                                    "No se que quiere Lupita."
                                                   )
                         ?>
 					</h1>
