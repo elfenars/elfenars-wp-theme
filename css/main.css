@@ -917,7 +917,7 @@ margin-right: 0 !important;
 }
 
 .main .entry-content img {
-	width:99% !important;
+	/*width:99% !important;*/
 	height: auto !important;
 	-webkit-transition: all 0.4s ease-out;
     	-moz-transition: all 0.4s ease-out;
