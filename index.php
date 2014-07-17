@@ -113,7 +113,7 @@
 										?>
 
 										<!-- begin post icon -->
-										<div class="icon">
+										<!-- <div class="icon">
 
 											<?php
 												if(has_post_format('gallery')){
@@ -147,7 +147,7 @@
 												}
 											?>
 
-										</div>
+										</div> -->
 										<!-- end post icon -->
 
 											<?php
