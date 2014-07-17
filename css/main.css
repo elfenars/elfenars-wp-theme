@@ -248,7 +248,7 @@ blockquote {
 .featured_post {
     color: white;
     clear:both;
-    background: #1F6D6F;
+    background: #ff0022;
     font-family:'Source Sans Pro', sans serif;
     font-size: 11px;
     text-transform:uppercase;
@@ -256,7 +256,7 @@ blockquote {
 }
 
 .featured_post:hover {
-    color: #43CACC;
+    color: #fff;
 }
 
 .more-link {
@@ -347,7 +347,7 @@ nav ul li.current-menu-item a {
 }
 
 .main .featured{
-    background:#2FBFC0;
+    background:#d40000;
     margin-bottom:65px;
 }
 

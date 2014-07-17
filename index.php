@@ -13,20 +13,17 @@
             		?>
 
 	               	<!-- begin sticky post article -->
-	               	<article <?php post_class(); ?>>
+	               	<!-- <article <?php post_class(); ?>>
 
 	                    <header>
 
-                    		<!-- begin postmeta -->
 	                    	<div class="postmeta">
 	                        	<span><i class="fa fa-clock-o"></i> <?php the_time('M j, Y') ?></span>
 	                        	<span><i class="fa fa-user"></i> Posteado por <?php the_author_link(); ?></span>
 	                        	<span><i class="fa fa-bookmark"></i> <?php the_category(', '); ?></span>
 	                        	<span><i class="fa fa-comments"></i> <?php comments_popup_link('0 comentarios', '1 comentario', ' % comentarios'); ?></span>
 	                        </div>
-	                        <!-- end postmeta -->
 
-										<!-- begin post icon -->
 										<div class="icon">
 
 											<?php
@@ -62,7 +59,6 @@
 											?>
 
 										</div>
-										<!-- end post icon -->
 
 	                        <h1><a href="<?php the_permalink();?>"><?php the_title();?></a></h1>
 
@@ -70,7 +66,7 @@
 
 	                    </header>
 
-	                </article>
+	                </article> -->
 	                <!-- end sticky post article -->
 
 	                 <?php endwhile; ?>
