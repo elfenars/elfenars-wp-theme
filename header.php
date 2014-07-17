@@ -72,7 +72,7 @@
 						<a href="<?php bloginfo('url');?>">
 
 	                    <?php if(of_get_option('image_logo') != 0){?>
-                              <?php if(of_get_option('logo')) : echo '<img src="'.of_get_option('logo').'" alt="'.get_bloginfo('name').'" class="styled"/>'; endif;?> 
+                              <?php if(of_get_option('logo')) : echo '<img src="'.get_bloginfo('template_url').'/img/simpson'.rand(1,7).'_circle.png" alt="'.get_bloginfo('name').'" class="styled"/>'; endif;?> 
                               <br><br>
 	                        <?php if(of_get_option('logo_text')) : echo of_get_option('logo_text'); endif;?>
 
