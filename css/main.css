@@ -260,7 +260,7 @@ blockquote {
 }
 
 .more-link {
-	color: #43CACC;
+	color: #d40000;
     text-transform:uppercase;
     font-weight:bold;
     text-transform:uppercase;
@@ -270,7 +270,7 @@ blockquote {
 }
 
 .more-link:hover {
-	color: #2A2A26;
+	color: #ff0022;
 }
 
 #social {
