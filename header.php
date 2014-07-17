@@ -68,17 +68,17 @@
 				<header class="wrapper clearfix">
 
 					<!-- begin logo -->
-					<h1 <?php if(of_get_option('image_logo') != 1){?>class="textlogo"<?php }else{?>class="logo"<?php }?> title="<?php  echo get_bloginfo('name');?>">
+					<h1 <?php if(of_get_option('image_logo') != 0){?>class="textlogo"<?php }else{?>class="logo"<?php }?> title="<?php  echo get_bloginfo('name');?>">
 						<a href="<?php bloginfo('url');?>">
 
-	                    <?php if(of_get_option('image_logo') != 1){?>
-
+	                    <?php if(of_get_option('image_logo') != 0){?>
+                              <?php if(of_get_option('logo')) : echo '<img src="'.of_get_option('logo').'" alt="'.get_bloginfo('name').'" class="styled"/>'; endif;?> 
+                              <br><br>
 	                        <?php if(of_get_option('logo_text')) : echo of_get_option('logo_text'); endif;?>
 
 	                        <?php }else{?>
 
-                            <?php if(of_get_option('logo')) : echo '<img src="'.of_get_option('logo').'" alt="'.get_bloginfo('name').'" class="styled"/>'; endif;?>
-						<?php }?>
+				      <?php }?>
 
                     	</a>
 					</h1>
