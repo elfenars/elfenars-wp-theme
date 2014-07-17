@@ -58,9 +58,9 @@
 		                    	<!-- postmeta -->
 		                    	<div class="postmeta">
 		                        	<span><i class="fa fa-clock-o"></i> <?php the_time('M j, Y') ?></span>
-		                        	<span><i class="fa fa-user"></i> Posted by <?php the_author_link(); ?></span>
+		                        	<span><i class="fa fa-user"></i> Posteado por <?php the_author_link(); ?></span>
 		                        	<span><i class="fa fa-bookmark"></i> <?php the_category(', '); ?></span>
-		                        	<span><i class="fa fa-comments"></i> <?php comments_popup_link('0 comments', '1 comment', ' % comments'); ?></span>
+		                        	<span><i class="fa fa-comments"></i> <?php comments_popup_link('0 comentarios', '1 comentario', ' % comentarios'); ?></span>
 		                        </div>
 		                        <!-- postmeta -->
 
