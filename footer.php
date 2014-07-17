@@ -60,7 +60,7 @@
 			<!-- end copyright -->
 
 			<!-- Site5 Credits-->
-			<br>Created by <a href="http://www.s5themes.com/">Site5 WordPress Themes</a>. Experts in <a href="http://gk.site5.com/t/668">WordPress Hosting</a>
+			<br>Theme created by <a href="http://www.s5themes.com/">Site5</a>. Modified by <a href="http://www.fernandoagar.cl">Feña </a>himself.
 			<!-- end Site5 Credits-->
 		</footer>
     </div>
