@@ -858,7 +858,7 @@ margin-right: 0 !important;
     position: relative;
     margin-left: 65px;
     z-index: 99;
-    width: 760px;
+    width: 74%;
 }
 
 .main .content article .icon {
@@ -880,7 +880,7 @@ margin-right: 0 !important;
 }
 
 .main .entry-content {
-        width: 670px;
+        width: 85%;
         padding: 45px;
         position:relative;
         margin-top:20px;
