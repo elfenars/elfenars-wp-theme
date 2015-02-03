@@ -1036,7 +1036,11 @@ margin-right: 0 !important;
 cols    1     2      3      4      5      6      7      8
 px      68    160    252    344    436    528    620    712    */
 
+<<<<<<< HEAD
 @media only screen and (min-width: 768px) and (max-width: 1300px) {
+=======
+@media only screen and (min-width: 768px) and (max-width: 1279px) {
+>>>>>>> 9a2383d4d8eb2649fda825c2ddfb18ed1628f367
 
 	body {
 		width: 100%;

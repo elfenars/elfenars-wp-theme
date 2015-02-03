@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moments v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-17 06:09:37+0000\n"
+"Last-Translator: elfenars <ferliagno@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: CHILE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ site5framework
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:21
+#@ site5framework
+msgid "The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:52
+#@ ajax-thumbnail-rebuild
+msgid "Reading attachments..."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:73
+#@ ajax-thumbnail-rebuild
+msgid "No attachments found."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:81
+#@ ajax-thumbnail-rebuild
+msgid "Done."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:84
+#, php-format
+#@ ajax-thumbnail-rebuild
+msgid "\"Rebuilding \" + %s + \" of \" + %s + \" (\" + %s + \")...\""
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:103
+#@ ajax-thumbnail-rebuild
+msgid "Error"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:120
+#@ ajax-thumbnail-rebuild
+msgid "Select which thumbnails you want to rebuild"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:121
+#@ ajax-thumbnail-rebuild
+msgid "Toggle all"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:131
+#@ ajax-thumbnail-rebuild
+msgid "cropped"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:138
+#@ ajax-thumbnail-rebuild
+msgid "Only rebuild featured images"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:141
+#@ ajax-thumbnail-rebuild
+msgid "Note: If you've changed the dimensions of your thumbnails, existing thumbnail images will not be deleted."
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:145
+#@ ajax-thumbnail-rebuild
+msgid "Rebuild All Thumbnails"
+msgstr ""
+
+#: admin/inc/ajax-thumbnail-rebuild.php:149
+#@ ajax-thumbnail-rebuild
+msgid "Last image"
+msgstr ""
+
+#: admin/inc/customfunctions.php:66
+#@ site5framework
+msgid "Post navigation"
+msgstr ""
+
+#: admin/inc/customfunctions.php:67
+#@ site5framework
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: admin/inc/customfunctions.php:68
+#@ site5framework
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/inc/customfunctions.php:122
+#, php-format
+#@ default
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: admin/inc/customfunctions.php:124
+#@ default
+msgid "(Edit)"
+msgstr ""
+
+#: admin/inc/customfunctions.php:132
+#@ site5framework
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/inc/pagination.php:44
+#@ default
+msgid "Pages:"
+msgstr ""
+
+#: admin/inc/pagination.php:45
+#@ default
+msgid "&rsaquo;"
+msgstr ""
+
+#: admin/inc/pagination.php:45
+#@ default
+msgid "&lsaquo;"
+msgstr ""
+
+#: admin/inc/widgets.php:10
+#@ site5framework
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: admin/inc/widgets.php:19
+#@ site5framework
+msgid "Page Widgets"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:420
+#: admin/meta-box-class/meta-box-class.php:459
+#@ mmb
+msgid "Remove"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:432
+#@ mmb
+msgid "Add"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:786
+#@ apc
+msgid "Select a color"
+msgstr ""
+
+#: admin/meta-box-class/meta-box-class.php:1819
+#: admin/meta-box-class/meta-box-class.php:1827
+#@ default
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: admin/options-framework.php:210
+#@ default
+msgid "Options"
+msgstr ""
+
+#: admin/options-framework.php:214
+#@ site5framework
+msgid "A Theme by"
+msgstr ""
+
+#: admin/options-framework.php:214
+#@ site5framework
+msgid "S5themes.com"
+msgstr ""
+
+#: admin/options-framework.php:232
+#@ site5framework
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:233
+#@ site5framework
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/options-framework.php:233
+#@ site5framework
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:263
+#@ site5framework
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:310
+#@ site5framework
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-framework.php:358
+#@ site5framework
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:26
+#@ site5framework
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:128
+#@ site5framework
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:151
+#@ optionsframework
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+#@ site5framework
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+#@ site5framework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: archive.php:19
+#: search.php:19
+#@ site5framework
+msgid "Browsing posts in: "
+msgstr ""
+
+#: archive.php:23
+#: search.php:23
+#@ site5framework
+msgid "Posts tagged with: "
+msgstr ""
+
+#: archive.php:27
+#: search.php:27
+#@ site5framework
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:31
+#: search.php:31
+#@ site5framework
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:35
+#: search.php:35
+#@ site5framework
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:39
+#: search.php:39
+#@ site5framework
+msgid "Search Results: "
+msgstr ""
+
+#: archive.php:134
+#: index.php:175
+#: page-temp-contact.php:84
+#: page.php:28
+#: search.php:134
+#: single.php:95
+#@ site5framework
+msgid "Read More"
+msgstr "Leer todo"
+
+#: archive.php:151
+#: index.php:194
+#: search.php:151
+#: single.php:117
+#@ site5framework
+msgid "Older"
+msgstr ""
+
+#: archive.php:152
+#: index.php:195
+#: search.php:152
+#: single.php:118
+#@ site5framework
+msgid "Newer"
+msgstr ""
+
+#: comments.php:12
+#@ site5framework
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:37
+#@ site5framework
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+#@ site5framework
+msgid "Post a comment"
+msgstr "Deja un comentario"
+
+#: comments.php:56
+#@ site5framework
+msgid "You must be  "
+msgstr ""
+
+#: comments.php:56
+#@ site5framework
+msgid "logged in "
+msgstr ""
+
+#: comments.php:56
+#@ site5framework
+msgid "to post a comment. "
+msgstr ""
+
+#: comments.php:66
+#@ site5framework
+msgid "Logged in as  "
+msgstr "Logeado como "
+
+#: comments.php:66
+#@ site5framework
+msgid "Log out &raquo; "
+msgstr "Salir &raquo; "
+
+#: comments.php:72
+#@ site5framework
+msgid "Your Name*:"
+msgstr ""
+
+#: comments.php:77
+#@ site5framework
+msgid "Your Mail*:"
+msgstr ""
+
+#: comments.php:82
+#@ site5framework
+msgid "Your Website*:"
+msgstr ""
+
+#: comments.php:89
+#@ site5framework
+msgid "Your comment*: "
+msgstr "Comentario*:"
+
+#: comments.php:94
+#@ site5framework
+msgid "POST COMMENT"
+msgstr "Comentar"
+
+#: index.php:69
+#@ site5framework
+msgid "Featured Post"
+msgstr "Post de la semana"
+
+#: page-temp-contact.php:8
+#: page-temp-contact.php:113
+#@ site5framework
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: page-temp-contact.php:16
+#: page-temp-contact.php:118
+#@ site5framework
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: page-temp-contact.php:19
+#@ site5framework
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: page-temp-contact.php:27
+#: page-temp-contact.php:126
+#@ site5framework
+msgid "You forgot to enter your message."
+msgstr ""
+
+#: page-temp-contact.php:97
+#@ site5framework
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: page-temp-contact.php:102
+#@ site5framework
+msgid "<strong>Thanks!</strong> Your email was successfully sent. We should be in touch soon."
+msgstr ""
+
+#: page-temp-contact.php:111
+#@ site5framework
+msgid "Name"
+msgstr ""
+
+#: page-temp-contact.php:116
+#@ site5framework
+msgid "Email"
+msgstr ""
+
+#: page-temp-contact.php:124
+#@ site5framework
+msgid "Message"
+msgstr ""
+
+#: page-temp-contact.php:132
+#@ site5framework
+msgid "Send"
+msgstr ""
+
+#: search.php:164
+#@ default
+msgid "No results found !"
+msgstr ""
+
+#: search.php:169
+#@ site5framework
+msgid "Sorry, What you were looking for is not here."
+msgstr ""
+
+#: searchform.php:3
+#@ site5framework
+msgid "Search"
+msgstr "Buscar"
+
+#: theme-options.php:108
+#@ site5framework
+msgid "All Categories"
+msgstr ""
+
+#: theme-options.php:116
+#@ site5framework
+msgid "Select a page:"
+msgstr ""
+
