@@ -1048,6 +1048,10 @@ px      68    160    252    344    436    528    620    712    */
         font-size: 14px;
     }
 
+    .main aside ul li, .main aside ul li a {
+        list-style-type: circle;
+    }
+
 }
 
 
