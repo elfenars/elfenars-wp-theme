@@ -1183,12 +1183,18 @@ px      68    160    252    344    436    528    620    712    */
 	    margin-bottom: 40px;
 	}
 
-	/*.main aside {
-	    float: none;
-    	margin: 0 auto;
-    	width: 89%;
-    	padding:0px;
-	}*/
+	.main aside {
+        float: left;
+        width: 1400px;
+        height:100%;
+        padding: 30px 25px;
+        z-index: 1;
+        font-size: 14px;
+    }
+
+    .main aside ul li, .main aside ul li a {
+        list-style-type: circle;
+    }
 
 	#respond, #comments {
 	    margin: 0px auto;
