@@ -224,6 +224,7 @@ blockquote {
 .textlogo a {
     color: white;
     text-transform:uppercase;
+    font-size: 25px;
 }
 
 .description {
