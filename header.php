@@ -72,7 +72,7 @@
 						<a href="<?php bloginfo('url');?>">
 
 	                    <?php if(of_get_option('image_logo') != 0){?>
-                              <?php if(of_get_option('logo')) : echo '<img src="'.get_bloginfo('template_url').'/img/simpson'.rand(1,7).'_circle.png" alt="'.get_bloginfo('name').'" class="styled"/>'; endif;?> 
+                              <?php if(of_get_option('logo')) : echo '<img src="'.get_bloginfo('template_url').'/img/simpson_circle.png" alt="'.get_bloginfo('name').'" class="styled"/>'; endif;?>
                               <br><br>
 	                        <?php if(of_get_option('logo_text')) : echo of_get_option('logo_text'); endif;?>
 
@@ -83,15 +83,15 @@
                     	</a>
 
                         <?php
-                          $leads = Array(  "Yeah baby, yeah.",
-                                                    "Oh si.", 
-                                                    "Denise Rosenthal style.",
-                                                    "Haciendo el amor y la guerra.",
-                                                    "Juan Lui es mi pastor.",
-                                                    "Chapalapachala.",
-                                                    "Me voy porque es rico irse.",
-                                                    "No se que quiere Lupita."
-                                                  )
+                          $leads = Array( "Yeah baby, yeah.",
+                                          "Oh si.",
+                                          "¿Sabis pescar?",
+                                          "Te pago 100 200... lo que queray.",
+                                          "Haciendo el amor y la guerra.",
+                                          "Chapalapachala.",
+                                          "Me voy porque es rico irse.",
+                                          "No se que quiere Lupita."
+                                        )
                         ?>
 					</h1>
 					<h2 class="description"><?php echo($leads[array_rand($leads)])?> </h2>
